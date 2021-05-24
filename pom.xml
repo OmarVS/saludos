@@ -11,7 +11,7 @@
 	<groupId>cl.axity</groupId>
 	<artifactId>azure</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>azure</name>
 	<description>Servicio de prueba de Azure</description>
 	<properties>
